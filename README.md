@@ -6,7 +6,7 @@
 </ul>
 
 <h2> ➔ Descrição do Site 💻 </h2>
-<p> O sie foi desenvolvido exclusivamente em hipertexto, sem utilização alguma de elementos do CSS entre outros. O site é majoritariamente composto de fotos e tabela de
-preços fictícia direcionados à cervejas populares no Brasil e no mundo. 
+<p> O site foi desenvolvido exclusivamente em hipertexto, sem utilização alguma de elementos do CSS entre outros. O site é majoritariamente composto de fotos e tabela de
+preços fictícia direcionados à cervejas populares no Brasil e no mundo.<br>
 ⚠️O projeto não passa de uma brincadeira. O intuito da criação é a avaliação das minhas habilidades básicas de html.
 </p>
